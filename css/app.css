@@ -2937,11 +2937,17 @@ main >.inner {
   top: -10%;
   left: -10%;
 }
-.social .item.::before {
-  background-color: ;
+.social .item.z::before {
+  background-color: ih;
 }
-.social .item. i {
-  color: ;
+.social .item.z i {
+  color: ih;
+}
+.social .item.h::before {
+  background-color: #1e88e5;
+}
+.social .item.h i {
+  color: #1e88e5;
 }
 .social .item:focus i,
 .social .item:hover i {
